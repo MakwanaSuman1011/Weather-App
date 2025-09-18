@@ -9,4 +9,4 @@ A simple weather application using OpenWeatherMap API.
 - Recent search history
 
 ## Live Demo
-👉 [Click here](https://MakwanaSuman1011.github.io/weather-app/)
+👉 [Click here](https://MakwanaSuman1011.github.io/Weather-App/)
